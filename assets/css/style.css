@@ -1,0 +1,40 @@
+#header {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(80, 114, 18);
+    padding-top: 3%;
+    background-color: rgb(233, 175, 99);
+    width: 600pt;
+    margin-left: 241pt;
+    height: 500pt;
+    border: 5px solid rgb(80, 114, 18);
+
+}
+#woods {
+    margin-left: 241pt;
+
+}
+#underscores {
+    background-color: bisque;
+    height: 100pt;
+    width: 440pt;
+    margin-top: 6%;
+    text-align: center;
+    padding-top: 8%;
+    
+    
+}
+
+#chancesc {
+    background-color: bisque;
+    height: 100pt;
+    width: 440pt;
+    margin-top: 12%;
+    margin-left: 25.6%;
+    text-align: center;
+    padding-top: 8%
+
+}
+#about {
+    margin-top: 3%
+}
